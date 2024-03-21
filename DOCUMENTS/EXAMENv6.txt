@@ -1,0 +1,5 @@
+git branch elmeudesenvolupament
+git checkout elmeudesenvolupament
+git add .
+git commit -m "Autor Pagina web"
+$ git push --set-upstream origin elmeudesenvolupament^C
