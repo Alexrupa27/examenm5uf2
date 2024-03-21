@@ -1,0 +1,7 @@
+git checkout master
+git merge elmeudesenvolupament
+git branch -d elmeudesenvolupament
+git branch
+git add .
+git commit -m "Ultim commit"
+git push
